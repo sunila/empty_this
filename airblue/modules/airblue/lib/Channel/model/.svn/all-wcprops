@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/airblue/!svn/ver/260/trunk/modules/airblue/lib/Channel/model
+END
+channel_model_file.awb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/airblue/!svn/ver/236/trunk/modules/airblue/lib/Channel/model/channel_model_file.awb
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/airblue/!svn/ver/245/trunk/modules/airblue/lib/Channel/model/util.h
+END
+freq_offset.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/airblue/!svn/ver/202/trunk/modules/airblue/lib/Channel/model/freq_offset.c
+END
+channel-file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/236/trunk/modules/airblue/lib/Channel/model/channel-file.cpp
+END
+channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/airblue/!svn/ver/245/trunk/modules/airblue/lib/Channel/model/channel.cpp
+END
+channel_model_sw.awb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/260/trunk/modules/airblue/lib/Channel/model/channel_model_sw.awb
+END
+awgn.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/airblue/!svn/ver/202/trunk/modules/airblue/lib/Channel/model/awgn.c
+END
+channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/airblue/!svn/ver/245/trunk/modules/airblue/lib/Channel/model/channel.h
+END
+channel_model_bdpi.awb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/airblue/!svn/ver/248/trunk/modules/airblue/lib/Channel/model/channel_model_bdpi.awb
+END
+fast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/airblue/!svn/ver/242/trunk/modules/airblue/lib/Channel/model/fast.cpp
+END
+jakes.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/airblue/!svn/ver/245/trunk/modules/airblue/lib/Channel/model/jakes.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/airblue/!svn/ver/242/trunk/modules/airblue/lib/Channel/model/util.c
+END

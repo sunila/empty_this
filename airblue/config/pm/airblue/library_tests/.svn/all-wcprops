@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/airblue/!svn/ver/414/trunk/config/pm/airblue/library_tests
+END
+viterbi_test_exe.apm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/airblue/!svn/ver/414/trunk/config/pm/airblue/library_tests/viterbi_test_exe.apm
+END
+mac_crc_test_exe.apm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/airblue/!svn/ver/414/trunk/config/pm/airblue/library_tests/mac_crc_test_exe.apm
+END
+puncturer_test_exe.apm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/412/trunk/config/pm/airblue/library_tests/puncturer_test_exe.apm
+END
+deinterleaver_test_exe.apm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/airblue/!svn/ver/414/trunk/config/pm/airblue/library_tests/deinterleaver_test_exe.apm
+END
+bit_stream_fifo_test_exe.apm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/airblue/!svn/ver/414/trunk/config/pm/airblue/library_tests/bit_stream_fifo_test_exe.apm
+END
+synchronizer_test_exe.apm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/414/trunk/config/pm/airblue/library_tests/synchronizer_test_exe.apm
+END
+channel_estimator_test_exe.apm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/airblue/!svn/ver/414/trunk/config/pm/airblue/library_tests/channel_estimator_test_exe.apm
+END
+fft_test_exe.apm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/airblue/!svn/ver/414/trunk/config/pm/airblue/library_tests/fft_test_exe.apm
+END
+bcjr_test_exe.apm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/airblue/!svn/ver/414/trunk/config/pm/airblue/library_tests/bcjr_test_exe.apm
+END
+interleaver_test_exe.apm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/airblue/!svn/ver/414/trunk/config/pm/airblue/library_tests/interleaver_test_exe.apm
+END
+inv_sq_root_test_exe.apm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/airblue/!svn/ver/414/trunk/config/pm/airblue/library_tests/inv_sq_root_test_exe.apm
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/airblue/!svn/ver/423/trunk
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/airblue/!svn/ver/391/trunk/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/airblue/!svn/ver/391/trunk/Makefile.in
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/airblue/!svn/ver/391/trunk/configure.in
+END
+changes
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/airblue/!svn/ver/422/trunk/changes
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/airblue/!svn/ver/391/trunk/Makefile.am
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/airblue/!svn/ver/391/trunk/aclocal.m4
+END
